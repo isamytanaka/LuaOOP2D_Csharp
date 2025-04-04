@@ -1,21 +1,7 @@
 ![](luacs.png)
 # LuaOOP2D
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-FFD700?style=flat&logo=opensourceinitiative&logoColor=black)](https://opensource.org/licenses/MIT)
-[![Issues](https://img.shields.io/badge/Issues-Open%20Issues-FF4500?style=flat&logo=github&logoColor=white)](https://github.com/isamytanaka/LuaOOP2D_Csharp/issues)
-[![Commits](https://img.shields.io/badge/Commits-Activity-1E90FF?style=flat&logo=git&logoColor=white)](https://github.com/isamytanaka/LuaOOP2D_Csharp/commits)
-[![Stars](https://img.shields.io/badge/Stars-Project%20Stars-FFD700?style=flat&logo=github&logoColor=black)](https://github.com/isamytanaka/LuaOOP2D_Csharp/stargazers)
-[![Version](https://img.shields.io/badge/Version-Latest%20Release-DC143C?style=flat&logo=semver&logoColor=white)](https://github.com/isamytanaka/LuaOOP2D_Csharp/releases)
-[![Last Release](https://img.shields.io/badge/Last%20Release-Date-8A2BE2?style=flat&logo=calendar&logoColor=white)](https://github.com/isamytanaka/LuaOOP2D_Csharp/releases)
-[![Created](https://img.shields.io/badge/Created-Since%20Start-32CD32?style=flat&logo=github&logoColor=white)](https://github.com/isamytanaka/LuaOOP2D_Csharp)
-[![Forks](https://img.shields.io/badge/Forks-Network%20Members-A9A9A9?style=flat&logo=git&logoColor=white)](https://github.com/isamytanaka/LuaOOP2D_Csharp/network/members)
-[![Repo Size](https://img.shields.io/badge/Repo%20Size-Storage%20Used-1E90FF?style=flat&logo=databricks&logoColor=white)](https://github.com/isamytanaka/LuaOOP2D_Csharp)
-[![Creator](https://img.shields.io/badge/Creator-Isamy-4169E1?style=flat&logo=github&logoColor=white)](https://github.com/isamytanaka)
-[![Language](https://img.shields.io/badge/Languages-Lua%20%7C%20C%23-9932CC?style=flat&logo=lua&logoColor=white)](https://github.com/isamytanaka/LuaOOP2D_Csharp)
-[![Downloads](https://img.shields.io/badge/Downloads-Total%20Downloads-00FA9A?style=flat&logo=download&logoColor=white)](https://github.com/isamytanaka/LuaOOP2D_Csharp/releases)
-[![Last Commit](https://img.shields.io/badge/Last%20Commit-Date-FF6347?style=flat&logo=git&logoColor=white)](https://github.com/isamytanaka/LuaOOP2D_Csharp/commits)
-[![Contributors](https://img.shields.io/badge/Contributors-People%20Helping-FF8C00?style=flat&logo=github&logoColor=white)](https://github.com/isamytanaka/LuaOOP2D_Csharp/graphs/contributors)
-[![Releases](https://img.shields.io/badge/Releases-Total%20Count-DC143C?style=flat&logo=github&logoColor=white)](https://github.com/isamytanaka/LuaOOP2D_Csharp/releases)
+![License](https://img.shields.io/github/license/isamytanaka/LuaOOP2D_Csharp?style=flat&logo=opensourceinitiative&logoColor=black&labelColor=1E1E1E&color=FFD700) ![Issues](https://img.shields.io/github/issues/isamytanaka/LuaOOP2D_Csharp?style=flat&logo=github&logoColor=white&labelColor=1E1E1E&color=FF4500) ![Commits](https://img.shields.io/github/commit-activity/m/isamytanaka/LuaOOP2D_Csharp?style=flat&logo=git&logoColor=white&labelColor=1E1E1E&color=1E90FF) ![Stars](https://img.shields.io/github/stars/isamytanaka/LuaOOP2D_Csharp?style=flat&logo=github&logoColor=black&labelColor=1E1E1E&color=FFD700) ![Version](https://img.shields.io/badge/Version-1.0-DC143C?style=flat&logo=semver&logoColor=white&labelColor=1E1E1E) ![Last Release](https://img.shields.io/github/release-date/isamytanaka/LuaOOP2D_Csharp?style=flat&logo=calendar&logoColor=white&labelColor=1E1E1E&color=8A2BE2) ![Repo Size](https://img.shields.io/github/repo-size/isamytanaka/LuaOOP2D_Csharp?style=flat&logo=databricks&logoColor=white&labelColor=1E1E1E&color=32CD32) ![Forks](https://img.shields.io/github/forks/isamytanaka/LuaOOP2D_Csharp?style=flat&logo=git&logoColor=white&labelColor=1E1E1E&color=A9A9A9) ![Creator](https://img.shields.io/badge/Creator-Isamy-4169E1?style=flat&logo=github&logoColor=white&labelColor=1E1E1E) ![Built With](https://img.shields.io/badge/Built_with-Lua-000080?style=flat&logo=lua&logoColor=FFFFFF&labelColor=191970&color=4169E1) ![Downloads](https://img.shields.io/github/downloads/isamytanaka/LuaOOP2D_Csharp/total?style=flat&logo=download&logoColor=white&labelColor=1E1E1E&color=00FA9A) ![Last Commit](https://img.shields.io/github/last-commit/isamytanaka/LuaOOP2D_Csharp?style=flat&logo=git&logoColor=white&labelColor=1E1E1E&color=FF6347) ![Contributors](https://img.shields.io/github/contributors/isamytanaka/LuaOOP2D_Csharp?style=flat&logo=github&logoColor=white&labelColor=1E1E1E&color=FF8C00)
 
 A memory-efficient 2D object library for Lua with C# export capabilities.
 
